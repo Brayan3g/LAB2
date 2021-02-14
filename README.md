@@ -1,0 +1,2 @@
+# LAB2
+SUMA DE 4 BITS
